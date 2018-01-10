@@ -12,7 +12,8 @@
 #
 
 #where the stuff is
-script_url="https://raw.githubusercontent.com/MattDevo/scripts/master/"
+# script_url="https://raw.githubusercontent.com/MattDevo/scripts/master/"
+script_url="https://raw.githubusercontent.com/mudiarto/scripts/master/"
 
 #set working dir
 cd /tmp
